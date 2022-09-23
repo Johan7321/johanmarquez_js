@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+3
+num
+6
+3
+3
+hor
+16
+trunc(num/ 3600)
+3
+min
+27
+trunc((num -  hor*3600)/60)
+3
+seg
+25
+num - (hor*3600 + min*60)
+4
+1
+30
+hor, 'h ', min, 'm ', seg, 's'
+1

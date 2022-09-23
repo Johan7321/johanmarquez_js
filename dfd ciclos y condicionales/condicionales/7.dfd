@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+'ingrese le numero de horas trabajadas'
+5
+1
+1
+N
+7
+0
+1
+6
+N > 40
+6
+1
+2
+Nn
+8
+N * 2600
+4
+1
+42
+'el dinero de las horas trabajadas es ',Nn
+13
+6
+1
+2
+Ne
+9
+ N * 5000
+4
+1
+42
+'el dinero de las horas trabajadas es ',Ne
+13
+1

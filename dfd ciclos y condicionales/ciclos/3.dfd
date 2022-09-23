@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+56
+'ingrese un numero para derterminar si es perfecto o no'
+5
+1
+1
+N
+6
+2
+1
+S
+1
+0
+1
+D
+1
+1
+9
+1
+4
+ D<N
+7
+0
+1
+9
+N MOD D=0
+13
+6
+1
+1
+S
+3
+S+D
+13
+6
+1
+1
+D
+3
+D+1
+11
+7
+0
+1
+3
+S=N
+4
+1
+21
+N , ' NO ES PERFECTO'
+13
+4
+1
+19
+N , ' ES PERFECTO '
+13
+1

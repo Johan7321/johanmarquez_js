@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'ingrese los numeros'
+5
+1
+14
+num1,num2,num3
+7
+0
+1
+11
+num1 = num2
+7
+0
+1
+11
+num3 = num2
+4
+1
+18
+'ninguno es igual'
+13
+4
+1
+17
+'dos son iguales'
+13
+13
+7
+0
+1
+12
+num2 = num3 
+4
+1
+16
+'no son iguales'
+13
+4
+1
+19
+'todos son iguales'
+13
+13
+1

@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'Ingrese la nota'
+5
+1
+1
+N
+7
+0
+1
+6
+N >= 9
+7
+0
+1
+5
+N >=7
+7
+0
+1
+6
+N >= 5
+7
+0
+1
+6
+N >= 3
+4
+1
+17
+'tiene nota mala'
+13
+4
+1
+29
+'Tiene una nota insuficiente'
+13
+13
+4
+1
+27
+'Tiene una nota SUFICIENTE'
+13
+13
+4
+1
+22
+'Tiene una nota buena'
+13
+13
+4
+1
+26
+'Tiene una nota excelente'
+13
+1

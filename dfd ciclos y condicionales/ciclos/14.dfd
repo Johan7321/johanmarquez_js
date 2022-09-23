@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'ingrese el numero de tres digitos'
+5
+1
+2
+N1
+6
+2
+2
+V1
+6
+N1 / 3
+2
+V2
+6
+V1 * 3
+4
+1
+307
+'La base es: ',V1,                                                   '                                                                        La altura es: ',V1,                                                 '                                                                         La profundidad es: ',V1
+4
+1
+29
+'el volumen del cubo es: ',V2
+1
